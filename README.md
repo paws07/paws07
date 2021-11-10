@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paws07
 - 👀 I’m interested in becoming a scruffy scraper. 
 - 🌱 I’m currently learning more OOP 
-- 💞️ I’m looking to collaborate on physics, maths, python stuff
+- 💞️ I’m looking to collaborate on math, computational physics
 - 📫 How to reach me -> swpnl007@gmail.com
 
 <!---
